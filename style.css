@@ -337,7 +337,7 @@ nav .fas{
 }
 @media only screen and (max-width : 600px){
     #header{
-        background-image: url(images/pic2.jpg);
+        background-image: url('https://img.freepik.com/free-photo/black-white-photo-surface-with-multiple-triangles_250224-161.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706832000&semt=ais');
     }
     .header-text{
         margin-top: 100%;
